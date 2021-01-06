@@ -1,0 +1,28 @@
+body {
+  background-color: #ff577f;
+  color: #fff;
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+.header {
+  background-color: #ff884b;
+  font-size: 1.5rem;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  top: 0;
+  width: 100%;
+}
+
+h1 {
+  font-family: "Press Start 2P", sans-serif;
+}
+
+.grid {
+  display: inline-flex;
+  flex-wrap: wrap;
+  height: 300;
+  text-align: center;
+  width: 400px;
+}
